@@ -1,6 +1,6 @@
 
-console.log('2:30 into Context in Javascript');
-console.log('javascripts context... will be dictated by function invocation');
+// 2:30 into Context in Javascript
+// javascripts context... will be dictated by function invocation
 
 foo = {
     bar: function(){
